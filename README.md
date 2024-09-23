@@ -37,5 +37,4 @@ Vamos implementar uma aplicação para consultar um endereço a partir de um CEP
 
 ## 📄 Certificado
 
-  <img src="https://github.com/user-attachments/assets/7aa5536c-a535-4734-943f-2f36d7f8c0d1"alt="Extra" style="width: 55%; max-width: 400px; margin: 6px;">
-
+  <img src="https://github.com/user-attachments/assets/7aa5536c-a535-4734-943f-2f36d7f8c0d1" alt="Extra" style="width: 55%; max-width: 400px; margin: 6px;">
